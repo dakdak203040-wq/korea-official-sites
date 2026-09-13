@@ -1,0 +1,50 @@
+# 매일 새벽 주소핀 공개 데이터를 받아 저장소를 갱신한다. 바뀐 게 없으면 커밋하지 않는다.
+name: Update data from jusopin.com
+
+on:
+  schedule:
+    - cron: "0 18 * * *"   # 매일 03:00 KST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download sites.json
+        run: |
+          curl -fsSL --retry 3 https://jusopin.com/data/sites.json -o sites.new.json
+          # 검증된 사이트가 아직 없으면(0곳) 기존 파일을 유지하고 조용히 끝낸다
+          if python3 -c "import json,sys; d=json.load(open('sites.new.json')); print(d['count'], 'sites'); sys.exit(0 if d['count']>0 else 1)"; then
+            mv sites.new.json sites.json
+          else
+            echo "아직 검증된 사이트가 없어 갱신하지 않습니다"; rm -f sites.new.json; echo "SKIP=1" >> "$GITHUB_ENV"
+          fi
+
+      - name: Build sites.csv
+        if: env.SKIP != '1'
+        run: |
+          python3 - <<'EOF'
+          import csv, json
+          d = json.load(open("sites.json", encoding="utf-8"))
+          cols = ["name", "url", "category", "categoryName", "operator", "operatorType", "verifiedAt", "page"]
+          with open("sites.csv", "w", newline="", encoding="utf-8-sig") as f:
+              w = csv.DictWriter(f, fieldnames=cols)
+              w.writeheader()
+              for s in d["sites"]:
+                  w.writerow({c: s.get(c) or "" for c in cols})
+          EOF
+
+      - name: Commit if changed
+        if: env.SKIP != '1'
+        run: |
+          git config user.name "jusopin-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add sites.json sites.csv
+          if git diff --cached --quiet; then echo "변경 없음"; exit 0; fi
+          git commit -m "data: $(date -u +%Y-%m-%d) 갱신"
+          git push
