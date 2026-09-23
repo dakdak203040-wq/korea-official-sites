@@ -1,9 +1,64 @@
 ﻿name,url,category,categoryName,operator,operatorType,verifiedAt,page
+SBS 뉴스,https://news.sbs.co.kr/,news,뉴스·언론,SBS,Company,2026-09-23,https://jusopin.com/site/sbs-news
+JTBC 뉴스,https://news.jtbc.co.kr/,news,뉴스·언론,JTBC,Company,2026-09-23,https://jusopin.com/site/jtbc-news
+KBS 뉴스,https://news.kbs.co.kr/,news,뉴스·언론,KBS,Company,2026-09-23,https://jusopin.com/site/kbs-news
+MBC 뉴스,https://imnews.imbc.com/,news,뉴스·언론,MBC,Company,2026-09-23,https://jusopin.com/site/mbc-news
+한국영상자료원,https://www.koreafilm.or.kr/,ott,영상·OTT,한국영상자료원,PublicInstitution,2026-09-23,https://jusopin.com/site/koreafilm
+메가박스,https://www.megabox.co.kr/,ott,영상·OTT,메가박스중앙,Company,2026-09-23,https://jusopin.com/site/megabox
+KOBIS,https://www.kobis.or.kr/,ott,영상·OTT,영화진흥위원회,PublicInstitution,2026-09-23,https://jusopin.com/site/kobis
+CGV,https://www.cgv.co.kr/,ott,영상·OTT,CJ CGV,Company,2026-09-23,https://jusopin.com/site/cgv
+디즈니 플러스,https://www.disneyplus.com/ko-kr,ott,영상·OTT,월트디즈니컴퍼니,Foreign,2026-09-23,https://jusopin.com/site/disneyplus
+롯데시네마,https://www.lottecinema.co.kr/,ott,영상·OTT,롯데컬처웍스,Company,2026-09-23,https://jusopin.com/site/lottecinema
+레딧(Reddit),https://www.reddit.com,community,커뮤니티,"Reddit, Inc.",Foreign,2026-09-23,https://jusopin.com/site/reddit
+보배드림,https://www.bobaedream.co.kr/,community,커뮤니티,보배드림,Company,2026-09-23,https://jusopin.com/site/bobaedream
+삼성전자,https://www.samsung.com/sec/,shopping,쇼핑·직구,삼성전자,Company,2026-09-23,https://jusopin.com/site/samsung
+이마트,https://www.emart.com,shopping,쇼핑·직구,이마트,Company,2026-09-23,https://jusopin.com/site/emart
+롯데ON,https://www.lotteon.com/,shopping,쇼핑·직구,롯데쇼핑,Company,2026-09-23,https://jusopin.com/site/lotteon
+Ledger(레저),https://www.ledger.com,securities,증권·투자,Ledger SAS,Foreign,2026-09-23,https://jusopin.com/site/ledger
+기상청,https://www.weather.go.kr/,government,정부·공공,기상청,Government,2026-09-23,https://jusopin.com/site/kma
+경찰청,https://www.police.go.kr/,government,정부·공공,경찰청,Government,2026-09-23,https://jusopin.com/site/police
+대한민국 법원,https://www.scourt.go.kr/,government,정부·공공,법원행정처,Government,2026-09-23,https://jusopin.com/site/scourt
+국가통계포털,https://kosis.kr/,government,정부·공공,국가데이터처,Government,2026-09-23,https://jusopin.com/site/kosis
+내보험찾아줌,https://cont.insure.or.kr,government,정부·공공,생명보험협회·손해보험협회,NonProfit,2026-09-23,https://jusopin.com/site/cont-insure
 방송미디어통신위원회,https://www.kcc.go.kr,government,정부·공공,방송미디어통신위원회,Government,2026-09-22,https://jusopin.com/site/kcc
 한국인터넷진흥원(KISA),https://www.kisa.or.kr,security,보안·피해신고,한국인터넷진흥원,PublicInstitution,2026-09-22,https://jusopin.com/site/kisa
+에드위드,https://www.edwith.org/,education,교육·학습,네이버 커넥트재단,NonProfit,2026-09-23,https://jusopin.com/site/edwith
+Khan Academy,https://www.khanacademy.org/,education,교육·학습,Khan Academy,Foreign,2026-09-23,https://jusopin.com/site/khanacademy
+Coursera,https://www.coursera.org/,education,교육·학습,Coursera,Foreign,2026-09-23,https://jusopin.com/site/coursera
+서울디지털대학교,https://www.sdu.ac.kr,education,교육·학습,서울디지털대학교,NonProfit,2026-09-23,https://jusopin.com/site/sdu
 국립중앙과학관,https://www.science.go.kr/,education,교육·학습,국립중앙과학관,Government,2026-09-22,https://jusopin.com/site/national-science-museum
 경기도 평생학습포털 지식 GSEEK,https://www.gseek.kr/,education,교육·학습,경기도·31개 시군,Government,2026-09-22,https://jusopin.com/site/gseek
 국립중앙박물관 e뮤지엄,https://www.emuseum.go.kr/,education,교육·학습,국립중앙박물관,Government,2026-09-22,https://jusopin.com/site/emuseum
+Reality Defender 딥페이크 탐지,https://www.realitydefender.com/,ai,AI 도구,Reality Defender,Foreign,2026-09-23,https://jusopin.com/site/reality-defender
+올림픽,https://olympics.com/ko/,sports,스포츠,국제올림픽위원회(IOC),Foreign,2026-09-23,https://jusopin.com/site/olympics
+스포츠토토 공식 안내,https://www.sportstoto.co.kr/,sports,스포츠,스포츠토토코리아,Company,2026-09-23,https://jusopin.com/site/sportstoto
+대한민국 구석구석,https://korean.visitkorea.or.kr/,travel,여행·교통,한국관광공사,PublicInstitution,2026-09-23,https://jusopin.com/site/visitkorea
+당근알바,https://www.daangn.com/kr/jobs/,jobs,취업·알바,당근,Company,2026-09-23,https://jusopin.com/site/daangn-jobs
 운세담,https://xn--jk1bn4ylie.com/,fortune-life,운세·생활정보,운세담,Company,2026-09-20,https://jusopin.com/site/unseedam
+KB차차차,https://www.kbchachacha.com/,automobile,자동차,KB캐피탈,Company,2026-09-23,https://jusopin.com/site/kbchachacha
+자동차365,https://www.car365.go.kr/,automobile,자동차,한국교통안전공단,PublicInstitution,2026-09-23,https://jusopin.com/site/car365
+엔카,https://www.encar.com/,automobile,자동차,엔카닷컴,Company,2026-09-23,https://jusopin.com/site/encar
+다나와 자동차,https://auto.danawa.com/,automobile,자동차,커넥트웨이브,Company,2026-09-23,https://jusopin.com/site/danawa-auto
+캐치테이블,https://www.catchtable.co.kr/,food,맛집·예약,와드,Company,2026-09-23,https://jusopin.com/site/catchtable
+식신,https://www.siksinhot.com/,food,맛집·예약,식신,Company,2026-09-23,https://jusopin.com/site/siksin
+다이닝코드,https://www.diningcode.com/,food,맛집·예약,다이닝코드,Company,2026-09-23,https://jusopin.com/site/diningcode
+넥슨,https://www.nexon.com/,games,게임,넥슨코리아,Company,2026-09-23,https://jusopin.com/site/nexon
+넷마블,https://www.netmarble.net/,games,게임,넷마블,Company,2026-09-23,https://jusopin.com/site/netmarble
+PlayStation,https://www.playstation.com/ko-kr/,games,게임,소니 인터랙티브 엔터테인먼트,Foreign,2026-09-23,https://jusopin.com/site/playstation
+Steam,https://store.steampowered.com/,games,게임,Valve,Foreign,2026-09-23,https://jusopin.com/site/steam
+Xbox,https://www.xbox.com/ko-KR/,games,게임,마이크로소프트,Foreign,2026-09-23,https://jusopin.com/site/xbox
+숨고,https://soomgo.com/,living,생활 서비스,브레이브모바일,Company,2026-09-23,https://jusopin.com/site/soomgo
+요기요,https://www.yogiyo.co.kr/,living,생활 서비스,위대한상상,Company,2026-09-23,https://jusopin.com/site/yogiyo
+배달의민족,https://www.baemin.com/,living,생활 서비스,우아한형제들,Company,2026-09-23,https://jusopin.com/site/baemin
+다나와,https://www.danawa.com/,price,가격비교,커넥트웨이브,Company,2026-09-23,https://jusopin.com/site/danawa
+에누리,https://www.enuri.com/,price,가격비교,써머스플랫폼,Company,2026-09-23,https://jusopin.com/site/enuri
+에어코리아,https://www.airkorea.or.kr/,safety,날씨·재난,한국환경공단,PublicInstitution,2026-09-23,https://jusopin.com/site/airkorea
+국민재난안전포털,https://www.safekorea.go.kr/,safety,날씨·재난,행정안전부,Government,2026-09-23,https://jusopin.com/site/safekorea
+안전신문고,https://www.safetyreport.go.kr/,safety,날씨·재난,행정안전부,Government,2026-09-23,https://jusopin.com/site/safetyreport
+GitHub,https://github.com,tools,업무 도구,"GitHub, Inc.",Foreign,2026-09-23,https://jusopin.com/site/github
+네이버 캘린더,https://calendar.naver.com/,tools,업무 도구,네이버,Company,2026-09-23,https://jusopin.com/site/naver-calendar
+구글 번역,https://translate.google.com/,tools,업무 도구,구글,Foreign,2026-09-23,https://jusopin.com/site/google-translate
+구글 드라이브,https://drive.google.com/,tools,업무 도구,구글,Foreign,2026-09-23,https://jusopin.com/site/google-drive
 바로킷,https://barokit.com/,tools,업무 도구,,Company,2026-09-22,https://jusopin.com/site/barokit
+한국 SaaS 백과사전,https://www.saaskorea.com/,tools,업무 도구,,Company,2026-09-23,https://jusopin.com/site/saaskorea
 공유마당,https://gongu.copyright.or.kr/,tools,업무 도구,한국저작권위원회,PublicInstitution,2026-09-22,https://jusopin.com/site/gongu
