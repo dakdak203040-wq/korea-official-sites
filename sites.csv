@@ -17,11 +17,11 @@ JTBC,https://jtbc.co.kr,news,뉴스·언론,주식회사 제이티비씨,Company
 YTN,https://www.ytn.co.kr,news,뉴스·언론,주식회사 와이티엔,Company,2026-10-16,https://jusopin.com/site/ytn
 중앙일보,https://www.joongang.co.kr,news,뉴스·언론,주식회사 중앙일보,Company,2026-10-16,https://jusopin.com/site/joongang
 KBS 뉴스,https://news.kbs.co.kr/,news,뉴스·언론,KBS,Company,2026-09-23,https://jusopin.com/site/kbs-news
-JTBC 뉴스,https://news.jtbc.co.kr/,news,뉴스·언론,JTBC,Company,2026-09-23,https://jusopin.com/site/jtbc-news
-MBC 뉴스,https://imnews.imbc.com/,news,뉴스·언론,MBC,Company,2026-11-01,https://jusopin.com/site/mbc-news
 매일경제,https://www.mk.co.kr,news,뉴스·언론,주식회사 매일경제신문사,Company,2026-10-19,https://jusopin.com/site/mk
-SBS 뉴스,https://news.sbs.co.kr/,news,뉴스·언론,SBS,Company,2026-11-01,https://jusopin.com/site/sbs-news
+MBC 뉴스,https://imnews.imbc.com/,news,뉴스·언론,MBC,Company,2026-11-01,https://jusopin.com/site/mbc-news
 동아일보,https://www.donga.com,news,뉴스·언론,주식회사 동아일보사,Company,2026-10-16,https://jusopin.com/site/donga
+JTBC 뉴스,https://news.jtbc.co.kr/,news,뉴스·언론,JTBC,Company,2026-09-23,https://jusopin.com/site/jtbc-news
+SBS 뉴스,https://news.sbs.co.kr/,news,뉴스·언론,SBS,Company,2026-11-01,https://jusopin.com/site/sbs-news
 한겨레,https://www.hani.co.kr,news,뉴스·언론,주식회사 한겨레신문사,Company,2026-10-18,https://jusopin.com/site/hani
 경향신문,https://www.khan.co.kr,news,뉴스·언론,주식회사 경향신문사,Company,2026-11-02,https://jusopin.com/site/khan
 유튜브,https://www.youtube.com,ott,영상·OTT,Google LLC,Foreign,2026-11-08,https://jusopin.com/site/youtube
@@ -31,10 +31,10 @@ SBS 뉴스,https://news.sbs.co.kr/,news,뉴스·언론,SBS,Company,2026-11-01,ht
 웨이브,https://www.wavve.com,ott,영상·OTT,콘텐츠웨이브 주식회사,Company,2026-10-09,https://jusopin.com/site/wavve
 디즈니+,https://www.disneyplus.com,ott,영상·OTT,월트디즈니컴퍼니,Foreign,2026-10-11,https://jusopin.com/site/disney-plus
 SOOP,https://www.sooplive.com,ott,영상·OTT,주식회사 숲,Company,2026-10-16,https://jusopin.com/site/soop
-롯데시네마,https://www.lottecinema.co.kr/,ott,영상·OTT,롯데컬처웍스,Company,2026-09-23,https://jusopin.com/site/lottecinema
 CGV,https://www.cgv.co.kr/,ott,영상·OTT,CJ CGV,Company,2026-09-23,https://jusopin.com/site/cgv
-한국영상자료원,https://www.koreafilm.or.kr/,ott,영상·OTT,한국영상자료원,PublicInstitution,2026-11-01,https://jusopin.com/site/koreafilm
 메가박스,https://www.megabox.co.kr/,ott,영상·OTT,메가박스중앙,Company,2026-09-23,https://jusopin.com/site/megabox
+롯데시네마,https://www.lottecinema.co.kr/,ott,영상·OTT,롯데컬처웍스,Company,2026-09-23,https://jusopin.com/site/lottecinema
+한국영상자료원,https://www.koreafilm.or.kr/,ott,영상·OTT,한국영상자료원,PublicInstitution,2026-11-01,https://jusopin.com/site/koreafilm
 KOBIS,https://www.kobis.or.kr/,ott,영상·OTT,영화진흥위원회,PublicInstitution,2026-11-01,https://jusopin.com/site/kobis
 왓챠,https://watcha.com,ott,영상·OTT,왓챠 주식회사,Company,2026-11-01,https://jusopin.com/site/watcha
 애니플러스,https://www.aniplustv.com,ott,영상·OTT,주식회사 애니플러스,Company,2026-11-08,https://jusopin.com/site/aniplus
@@ -42,42 +42,42 @@ KOBIS,https://www.kobis.or.kr/,ott,영상·OTT,영화진흥위원회,PublicInsti
 유튜브 뮤직,https://music.youtube.com,music,음악,Google LLC,Foreign,2026-10-07,https://jusopin.com/site/youtube-music
 지니뮤직,https://www.genie.co.kr,music,음악,(주)케이티지니뮤직,Company,2026-10-12,https://jusopin.com/site/genie
 FLO,https://www.music-flo.com,music,음악,주식회사 드림어스컴퍼니,Company,2026-10-12,https://jusopin.com/site/flo
-벅스,https://music.bugs.co.kr,music,음악,주식회사 엔에이치엔벅스,Company,2026-11-07,https://jusopin.com/site/bugs
 스포티파이,https://www.spotify.com,music,음악,Spotify AB,Foreign,2026-11-07,https://jusopin.com/site/spotify
+벅스,https://music.bugs.co.kr,music,음악,주식회사 엔에이치엔벅스,Company,2026-11-07,https://jusopin.com/site/bugs
 한국음악저작권협회,https://www.komca.or.kr,music,음악,사단법인 한국음악저작권협회,NonProfit,2026-10-13,https://jusopin.com/site/komca
 인스타그램,https://www.instagram.com,community,커뮤니티,"Meta Platforms, Inc.",Foreign,2026-10-11,https://jusopin.com/site/instagram
 네이버 카페,https://cafe.naver.com,community,커뮤니티,네이버 주식회사,Company,2026-10-22,https://jusopin.com/site/naver-cafe
 카카오 고객센터,https://cs.kakao.com,community,커뮤니티,주식회사 카카오,Company,2026-10-08,https://jusopin.com/site/kakao-cs
 X(트위터),https://x.com,community,커뮤니티,X Corp.,Foreign,2026-10-11,https://jusopin.com/site/x
-클리앙,https://www.clien.net,community,커뮤니티,,Company,2026-10-16,https://jusopin.com/site/clien
-네이버 밴드(BAND),https://band.us,community,커뮤니티,네이버 주식회사,Company,2026-10-08,https://jusopin.com/site/naver-band
 인벤,https://www.inven.co.kr,community,커뮤니티,주식회사 인벤,Company,2026-10-19,https://jusopin.com/site/inven
-에브리타임,https://everytime.kr,community,커뮤니티,주식회사 비누랩스,Company,2026-10-14,https://jusopin.com/site/everytime
-보배드림,https://www.bobaedream.co.kr/,community,커뮤니티,보배드림,Company,2026-11-01,https://jusopin.com/site/bobaedream
+네이버 밴드(BAND),https://band.us,community,커뮤니티,네이버 주식회사,Company,2026-10-08,https://jusopin.com/site/naver-band
 레딧(Reddit),https://www.reddit.com,community,커뮤니티,"Reddit, Inc.",Foreign,2026-09-23,https://jusopin.com/site/reddit
+클리앙,https://www.clien.net,community,커뮤니티,,Company,2026-10-16,https://jusopin.com/site/clien
+보배드림,https://www.bobaedream.co.kr/,community,커뮤니티,보배드림,Company,2026-11-01,https://jusopin.com/site/bobaedream
+에브리타임,https://everytime.kr,community,커뮤니티,주식회사 비누랩스,Company,2026-10-14,https://jusopin.com/site/everytime
 뽐뿌,https://www.ppomppu.co.kr,community,커뮤니티,(주)뽐뿌커뮤니케이션,Company,2026-10-09,https://jusopin.com/site/ppomppu
 쿠팡,https://www.coupang.com,shopping,쇼핑·직구,쿠팡 주식회사,Company,2026-11-08,https://jusopin.com/site/coupang
 당근,https://www.daangn.com,shopping,쇼핑·직구,,Company,2026-10-21,https://jusopin.com/site/daangn
 11번가,https://www.11st.co.kr,shopping,쇼핑·직구,십일번가 주식회사,Company,2026-10-13,https://jusopin.com/site/11st
 삼성전자,https://www.samsung.com/sec/,shopping,쇼핑·직구,삼성전자,Company,2026-11-07,https://jusopin.com/site/samsung
-SSG닷컴,https://www.ssg.com,shopping,쇼핑·직구,주식회사 에스에스지닷컴,Company,2026-10-14,https://jusopin.com/site/ssg
 컬리,https://www.kurly.com,shopping,쇼핑·직구,주식회사 컬리,Company,2026-10-14,https://jusopin.com/site/kurly
-이마트,https://www.emart.com,shopping,쇼핑·직구,이마트,Company,2026-09-23,https://jusopin.com/site/emart
-코스트코 코리아,https://www.costco.co.kr,shopping,쇼핑·직구,(주)코스트코 코리아,Company,2026-10-11,https://jusopin.com/site/costco
+SSG닷컴,https://www.ssg.com,shopping,쇼핑·직구,주식회사 에스에스지닷컴,Company,2026-10-14,https://jusopin.com/site/ssg
 예스24,https://www.yes24.com,shopping,쇼핑·직구,예스이십사(주),Company,2026-10-13,https://jusopin.com/site/yes24
-교보문고,https://www.kyobobook.co.kr,shopping,쇼핑·직구,(주)교보문고,Company,2026-10-13,https://jusopin.com/site/kyobobook
 다이소몰,https://www.daisomall.co.kr,shopping,쇼핑·직구,(주)아성다이소,Company,2026-10-11,https://jusopin.com/site/daisomall
 애플,https://www.apple.com/kr,shopping,쇼핑·직구,애플코리아 유한회사,Foreign,2026-10-06,https://jusopin.com/site/apple
 LG전자,https://www.lge.co.kr,shopping,쇼핑·직구,엘지전자(주),Company,2026-10-06,https://jusopin.com/site/lg-electronics
+교보문고,https://www.kyobobook.co.kr,shopping,쇼핑·직구,(주)교보문고,Company,2026-10-13,https://jusopin.com/site/kyobobook
+코스트코 코리아,https://www.costco.co.kr,shopping,쇼핑·직구,(주)코스트코 코리아,Company,2026-10-11,https://jusopin.com/site/costco
+이마트,https://www.emart.com,shopping,쇼핑·직구,이마트,Company,2026-09-23,https://jusopin.com/site/emart
 알라딘,https://www.aladin.co.kr,shopping,쇼핑·직구,(주)알라딘커뮤니케이션,Company,2026-10-13,https://jusopin.com/site/aladin
+홈플러스,https://mfront.homeplus.co.kr,shopping,쇼핑·직구,홈플러스 주식회사,Company,2026-10-08,https://jusopin.com/site/homeplus
 롯데ON,https://www.lotteon.com/,shopping,쇼핑·직구,롯데쇼핑,Company,2026-09-23,https://jusopin.com/site/lotteon
 오늘의집,https://ohou.se,shopping,쇼핑·직구,주식회사 버킷플레이스,Company,2026-10-13,https://jusopin.com/site/ohou
-홈플러스,https://mfront.homeplus.co.kr,shopping,쇼핑·직구,홈플러스 주식회사,Company,2026-10-08,https://jusopin.com/site/homeplus
-중고나라,https://web.joongna.com,shopping,쇼핑·직구,(주)중고나라,Company,2026-11-08,https://jusopin.com/site/joongna
 번개장터,https://m.bunjang.co.kr,shopping,쇼핑·직구,번개장터(주),Company,2026-10-06,https://jusopin.com/site/bunjang
+중고나라,https://web.joongna.com,shopping,쇼핑·직구,(주)중고나라,Company,2026-11-08,https://jusopin.com/site/joongna
 KB국민은행,https://www.kbstar.com,bank,은행,주식회사 국민은행,Company,2026-10-22,https://jusopin.com/site/kb-bank
-신한은행,https://www.shinhan.com,bank,은행,주식회사 신한은행,Company,2026-10-22,https://jusopin.com/site/shinhan-bank
 카카오뱅크,https://www.kakaobank.com,bank,은행,주식회사 카카오뱅크,Company,2026-10-22,https://jusopin.com/site/kakaobank
+신한은행,https://www.shinhan.com,bank,은행,주식회사 신한은행,Company,2026-10-22,https://jusopin.com/site/shinhan-bank
 하나은행,https://www.kebhana.com,bank,은행,주식회사 하나은행,Company,2026-10-22,https://jusopin.com/site/hana-bank
 우리은행,https://www.wooribank.com,bank,은행,주식회사 우리은행,Company,2026-10-22,https://jusopin.com/site/woori-bank
 NH농협은행,https://banking.nonghyup.com,bank,은행,농협은행 주식회사,Company,2026-10-09,https://jusopin.com/site/nh-bank
@@ -97,8 +97,8 @@ NH투자증권,https://www.nhsec.com,securities,증권·투자,NH투자증권 �
 Ledger(레저),https://www.ledger.com,securities,증권·투자,Ledger SAS,Foreign,2026-09-23,https://jusopin.com/site/ledger
 카카오페이,https://www.kakaopay.com,card-pay,카드·간편결제,주식회사 카카오페이,Company,2026-10-09,https://jusopin.com/site/kakaopay
 KB국민카드,https://www.kbcard.com,card-pay,카드·간편결제,주식회사 케이비국민카드,Company,2026-10-12,https://jusopin.com/site/kb-card
-삼성카드,https://www.samsungcard.com,card-pay,카드·간편결제,삼성카드 주식회사,Company,2026-10-13,https://jusopin.com/site/samsung-card
 현대카드,https://www.hyundaicard.com,card-pay,카드·간편결제,현대카드 주식회사,Company,2026-10-13,https://jusopin.com/site/hyundai-card
+삼성카드,https://www.samsungcard.com,card-pay,카드·간편결제,삼성카드 주식회사,Company,2026-10-13,https://jusopin.com/site/samsung-card
 페이코(PAYCO),https://www.payco.com,card-pay,카드·간편결제,엔에이치엔페이코(주),Company,2026-10-08,https://jusopin.com/site/payco
 정부24,https://www.gov.kr,government,정부·공공,행정안전부,Government,2026-10-09,https://jusopin.com/site/gov24
 국세청 홈택스,https://www.hometax.go.kr,government,정부·공공,국세청,Government,2026-10-22,https://jusopin.com/site/hometax
@@ -106,35 +106,35 @@ KB국민카드,https://www.kbcard.com,card-pay,카드·간편결제,주식회사
 위택스,https://www.wetax.go.kr,government,정부·공공,행정안전부,Government,2026-10-22,https://jusopin.com/site/wetax
 고용24,https://www.work24.go.kr,government,정부·공공,고용노동부,Government,2026-10-13,https://jusopin.com/site/work24
 국민연금공단,https://www.nps.or.kr,government,정부·공공,국민연금공단,PublicInstitution,2026-10-22,https://jusopin.com/site/nps
-복지로,https://www.bokjiro.go.kr,government,정부·공공,보건복지부,Government,2026-11-03,https://jusopin.com/site/bokjiro
 대법원 인터넷등기소,https://www.iros.go.kr,government,정부·공공,대법원,Government,2026-10-13,https://jusopin.com/site/iros
-국가통계포털,https://kosis.kr/,government,정부·공공,국가데이터처,Government,2026-09-23,https://jusopin.com/site/kosis
-대한민국 국회,https://www.assembly.go.kr,government,정부·공공,국회,Government,2026-10-13,https://jusopin.com/site/assembly
-교통민원24(이파인),https://www.efine.go.kr,government,정부·공공,경찰청,Government,2026-10-14,https://jusopin.com/site/efine
-기상청,https://www.weather.go.kr/,government,정부·공공,기상청,Government,2026-09-23,https://jusopin.com/site/kma
+복지로,https://www.bokjiro.go.kr,government,정부·공공,보건복지부,Government,2026-11-03,https://jusopin.com/site/bokjiro
 국민신문고,https://www.epeople.go.kr,government,정부·공공,국민권익위원회,Government,2026-10-14,https://jusopin.com/site/epeople
-관세청 유니패스,https://unipass.customs.go.kr,government,정부·공공,관세청,Government,2026-11-07,https://jusopin.com/site/unipass
-대한민국 법원,https://www.scourt.go.kr/,government,정부·공공,법원행정처,Government,2026-11-07,https://jusopin.com/site/scourt
+교통민원24(이파인),https://www.efine.go.kr,government,정부·공공,경찰청,Government,2026-10-14,https://jusopin.com/site/efine
 경찰청,https://www.police.go.kr/,government,정부·공공,경찰청,Government,2026-09-23,https://jusopin.com/site/police
+관세청 유니패스,https://unipass.customs.go.kr,government,정부·공공,관세청,Government,2026-11-07,https://jusopin.com/site/unipass
 국가법령정보센터,https://www.law.go.kr,government,정부·공공,법제처,Government,2026-11-01,https://jusopin.com/site/law
+대한민국 국회,https://www.assembly.go.kr,government,정부·공공,국회,Government,2026-10-13,https://jusopin.com/site/assembly
+기상청,https://www.weather.go.kr/,government,정부·공공,기상청,Government,2026-09-23,https://jusopin.com/site/kma
+국가통계포털,https://kosis.kr/,government,정부·공공,국가데이터처,Government,2026-09-23,https://jusopin.com/site/kosis
+대한민국 법원,https://www.scourt.go.kr/,government,정부·공공,법원행정처,Government,2026-11-07,https://jusopin.com/site/scourt
 병무청,https://www.mma.go.kr,government,정부·공공,병무청,Government,2026-11-01,https://jusopin.com/site/mma
 내보험찾아줌,https://cont.insure.or.kr,government,정부·공공,생명보험협회·손해보험협회,NonProfit,2026-09-23,https://jusopin.com/site/cont-insure
 서울아리수본부,https://arisu.seoul.go.kr,government,정부·공공,서울특별시 서울아리수본부,Government,2026-10-06,https://jusopin.com/site/seoul-arisu
 방송미디어통신위원회,https://www.kcc.go.kr,government,정부·공공,방송미디어통신위원회,Government,2026-09-22,https://jusopin.com/site/kcc
+공공데이터포털,https://www.data.go.kr/,government,정부·공공,행정안전부·한국지능정보사회진흥원,Government,2026-10-23,https://jusopin.com/site/data-go-kr
+1365 자원봉사포털,https://www.1365.go.kr/vols/main.do,government,정부·공공,행정안전부,Government,2026-10-23,https://jusopin.com/site/1365
+온통청년,https://www.youthcenter.go.kr/,government,정부·공공,국무조정실·한국고용정보원,Government,2026-10-23,https://jusopin.com/site/youthcenter
 주소정보누리집,https://www.juso.go.kr/,government,정부·공공,행정안전부,Government,2026-10-24,https://jusopin.com/site/juso-address
 한국소비자원,https://www.kca.go.kr/,government,정부·공공,한국소비자원,PublicInstitution,2026-10-23,https://jusopin.com/site/kca
-온통청년,https://www.youthcenter.go.kr/,government,정부·공공,국무조정실·한국고용정보원,Government,2026-10-23,https://jusopin.com/site/youthcenter
-1365 자원봉사포털,https://www.1365.go.kr/vols/main.do,government,정부·공공,행정안전부,Government,2026-10-23,https://jusopin.com/site/1365
-공공데이터포털,https://www.data.go.kr/,government,정부·공공,행정안전부·한국지능정보사회진흥원,Government,2026-10-23,https://jusopin.com/site/data-go-kr
 경찰청 사이버범죄 신고시스템,https://ecrm.police.go.kr,security,보안·피해신고,경찰청,Government,2026-10-12,https://jusopin.com/site/ecrm
 개인정보 포털,https://www.privacy.go.kr,security,보안·피해신고,개인정보보호위원회,Government,2026-11-01,https://jusopin.com/site/privacy-portal
 금융감독원,https://www.fss.or.kr,security,보안·피해신고,금융감독원,PublicInstitution,2026-10-19,https://jusopin.com/site/fss
-KISA 보호나라,https://www.boho.or.kr,security,보안·피해신고,한국인터넷진흥원,PublicInstitution,2026-11-01,https://jusopin.com/site/boho
-어카운트인포(계좌정보 통합관리),https://www.payinfo.or.kr,security,보안·피해신고,사단법인 금융결제원,NonProfit,2026-11-03,https://jusopin.com/site/payinfo
 더치트,https://thecheat.co.kr,security,보안·피해신고,,Company,2026-10-17,https://jusopin.com/site/thecheat
-1372 소비자상담센터,https://www.ccn.go.kr,security,보안·피해신고,공정거래위원회,Government,2026-11-01,https://jusopin.com/site/ccn
+어카운트인포(계좌정보 통합관리),https://www.payinfo.or.kr,security,보안·피해신고,사단법인 금융결제원,NonProfit,2026-11-03,https://jusopin.com/site/payinfo
+KISA 보호나라,https://www.boho.or.kr,security,보안·피해신고,한국인터넷진흥원,PublicInstitution,2026-11-01,https://jusopin.com/site/boho
 파인(FINE) 금융소비자 정보포털,https://fine.fss.or.kr,security,보안·피해신고,금융감독원,PublicInstitution,2026-11-01,https://jusopin.com/site/fine
 명의도용방지서비스(M-Safer),https://www.msafer.or.kr,security,보안·피해신고,한국정보통신진흥협회,NonProfit,2026-10-13,https://jusopin.com/site/msafer
+1372 소비자상담센터,https://www.ccn.go.kr,security,보안·피해신고,공정거래위원회,Government,2026-11-01,https://jusopin.com/site/ccn
 방송미디어통신심의위원회,https://www.kocsc.or.kr,security,보안·피해신고,방송통신심의위원회,PublicInstitution,2026-11-01,https://jusopin.com/site/kocsc
 한국인터넷진흥원(KISA),https://www.kisa.or.kr,security,보안·피해신고,한국인터넷진흥원,PublicInstitution,2026-09-22,https://jusopin.com/site/kisa
 개인정보보호위원회,https://www.pipc.go.kr,security,보안·피해신고,개인정보보호위원회,Government,2026-11-01,https://jusopin.com/site/pipc
@@ -142,23 +142,23 @@ EBS,https://www.ebs.co.kr,education,교육·학습,한국교육방송공사,Publ
 파파고,https://papago.naver.com,education,교육·학습,네이버 주식회사,Company,2026-10-22,https://jusopin.com/site/papago
 네이버 사전,https://dict.naver.com,education,교육·학습,네이버 주식회사,Company,2026-11-03,https://jusopin.com/site/naver-dict
 EBSi,https://www.ebsi.co.kr,education,교육·학습,한국교육방송공사,PublicInstitution,2026-10-13,https://jusopin.com/site/ebsi
+한국장학재단,https://www.kosaf.go.kr,education,교육·학습,한국장학재단,PublicInstitution,2026-10-08,https://jusopin.com/site/kosaf
 큐넷(Q-Net),https://www.q-net.or.kr,education,교육·학습,한국산업인력공단,PublicInstitution,2026-10-23,https://jusopin.com/site/qnet
 대학수학능력시험(한국교육과정평가원),https://www.suneung.re.kr,education,교육·학습,한국교육과정평가원,PublicInstitution,2026-10-11,https://jusopin.com/site/suneung
-한국장학재단,https://www.kosaf.go.kr,education,교육·학습,한국장학재단,PublicInstitution,2026-10-08,https://jusopin.com/site/kosaf
-Coursera,https://www.coursera.org/,education,교육·학습,Coursera,Foreign,2026-11-01,https://jusopin.com/site/coursera
 Khan Academy,https://www.khanacademy.org/,education,교육·학습,Khan Academy,Foreign,2026-09-23,https://jusopin.com/site/khanacademy
+Coursera,https://www.coursera.org/,education,교육·학습,Coursera,Foreign,2026-11-01,https://jusopin.com/site/coursera
 인프런,https://www.inflearn.com,education,교육·학습,,Company,2026-11-02,https://jusopin.com/site/inflearn
-한국사능력검정시험,https://www.historyexam.go.kr,education,교육·학습,국사편찬위원회,Government,2026-11-02,https://jusopin.com/site/historyexam
 RISS,https://www.riss.kr,education,교육·학습,한국교육학술정보원,PublicInstitution,2026-11-02,https://jusopin.com/site/riss
-표준국어대사전,https://stdict.korean.go.kr,education,교육·학습,국립국어원,Government,2026-11-02,https://jusopin.com/site/stdict
+한국사능력검정시험,https://www.historyexam.go.kr,education,교육·학습,국사편찬위원회,Government,2026-11-02,https://jusopin.com/site/historyexam
 대학어디가,https://www.adiga.kr,education,교육·학습,한국대학교육협의회,NonProfit,2026-11-02,https://jusopin.com/site/adiga
+표준국어대사전,https://stdict.korean.go.kr,education,교육·학습,국립국어원,Government,2026-11-02,https://jusopin.com/site/stdict
 K-MOOC,https://www.kmooc.kr,education,교육·학습,국가평생교육진흥원,PublicInstitution,2026-11-02,https://jusopin.com/site/kmooc
 국립중앙도서관,https://www.nl.go.kr,education,교육·학습,국립중앙도서관,Government,2026-11-02,https://jusopin.com/site/nl
 클래스101,https://class101.net,education,교육·학습,,Company,2026-11-02,https://jusopin.com/site/class101
 서울디지털대학교,https://www.sdu.ac.kr,education,교육·학습,서울디지털대학교,NonProfit,2026-09-23,https://jusopin.com/site/sdu
 경기도 평생학습포털 지식 GSEEK,https://www.gseek.kr/,education,교육·학습,경기도·31개 시군,Government,2026-09-22,https://jusopin.com/site/gseek
-국립중앙과학관,https://www.science.go.kr/,education,교육·학습,국립중앙과학관,Government,2026-11-01,https://jusopin.com/site/national-science-museum
 국립중앙박물관 e뮤지엄,https://www.emuseum.go.kr/,education,교육·학습,국립중앙박물관,Government,2026-11-01,https://jusopin.com/site/emuseum
+국립중앙과학관,https://www.science.go.kr/,education,교육·학습,국립중앙과학관,Government,2026-11-01,https://jusopin.com/site/national-science-museum
 대한상공회의소 자격평가사업단,https://license.korcham.net/,education,교육·학습,대한상공회의소,NonProfit,2026-10-23,https://jusopin.com/site/korcham-license
 ChatGPT,https://chatgpt.com,ai,AI 도구,OpenAI,Foreign,2026-10-11,https://jusopin.com/site/chatgpt
 Gemini,https://gemini.google.com,ai,AI 도구,Google LLC,Foreign,2026-10-16,https://jusopin.com/site/gemini
@@ -173,8 +173,8 @@ Reality Defender 딥페이크 탐지,https://www.realitydefender.com/,ai,AI 도�
 카카오웹툰,https://webtoon.kakao.com,webtoon,웹툰·웹소설,주식회사 카카오엔터테인먼트,Company,2026-10-12,https://jusopin.com/site/kakao-webtoon
 리디,https://ridibooks.com,webtoon,웹툰·웹소설,리디 주식회사,Company,2026-10-12,https://jusopin.com/site/ridi
 밀리의 서재,https://www.millie.co.kr,webtoon,웹툰·웹소설,(주)케이티밀리의서재,Company,2026-10-12,https://jusopin.com/site/millie
-문피아,https://www.munpia.com,webtoon,웹툰·웹소설,,Company,2026-10-09,https://jusopin.com/site/munpia
 레진코믹스,https://www.lezhin.com,webtoon,웹툰·웹소설,,Company,2026-10-09,https://jusopin.com/site/lezhin
+문피아,https://www.munpia.com,webtoon,웹툰·웹소설,,Company,2026-10-09,https://jusopin.com/site/munpia
 봄툰,https://www.bomtoon.com,webtoon,웹툰·웹소설,,Company,2026-10-09,https://jusopin.com/site/bomtoon
 네이버 스포츠,https://sports.news.naver.com,sports,스포츠,네이버 주식회사,Company,2026-10-22,https://jusopin.com/site/naver-sports
 KBO 한국야구위원회,https://www.koreabaseball.com,sports,스포츠,사단법인 한국야구위원회,NonProfit,2026-10-14,https://jusopin.com/site/kbo
@@ -182,18 +182,18 @@ KBO 한국야구위원회,https://www.koreabaseball.com,sports,스포츠,사단�
 올림픽,https://olympics.com/ko/,sports,스포츠,국제올림픽위원회(IOC),Foreign,2026-09-23,https://jusopin.com/site/olympics
 FIFA 국제축구연맹,https://www.fifa.com,sports,스포츠,Fédération Internationale de Football Association,Foreign,2026-11-01,https://jusopin.com/site/fifa
 티켓링크,https://www.ticketlink.co.kr,sports,스포츠,,Company,2026-10-20,https://jusopin.com/site/ticketlink
-K리그,https://www.kleague.com,sports,스포츠,사단법인 한국프로축구연맹,NonProfit,2026-11-02,https://jusopin.com/site/kleague
 UEFA 유럽축구연맹,https://www.uefa.com,sports,스포츠,Union of European Football Associations,Foreign,2026-11-01,https://jusopin.com/site/uefa
 대한축구협회,https://www.kfa.or.kr,sports,스포츠,사단법인 대한축구협회,NonProfit,2026-11-02,https://jusopin.com/site/kfa
+K리그,https://www.kleague.com,sports,스포츠,사단법인 한국프로축구연맹,NonProfit,2026-11-02,https://jusopin.com/site/kleague
 SPOTV NOW,https://www.spotvnow.co.kr,sports,스포츠,(주)스포티비,Company,2026-11-07,https://jusopin.com/site/spotv-now
 NPB 일본프로야구,https://npb.jp,sports,스포츠,一般社団法人日本野球機構,Foreign,2026-11-01,https://jusopin.com/site/npb
-KLPGA 한국여자프로골프협회,https://klpga.co.kr,sports,스포츠,사단법인 한국여자프로골프협회,NonProfit,2026-11-01,https://jusopin.com/site/klpga
 KOVO 한국배구연맹,https://www.kovo.co.kr,sports,스포츠,사단법인 한국배구연맹,NonProfit,2026-11-02,https://jusopin.com/site/kovo
 KBL 한국농구연맹,https://www.kbl.or.kr,sports,스포츠,사단법인 한국농구연맹,NonProfit,2026-11-02,https://jusopin.com/site/kbl
+KLPGA 한국여자프로골프협회,https://klpga.co.kr,sports,스포츠,사단법인 한국여자프로골프협회,NonProfit,2026-11-01,https://jusopin.com/site/klpga
 대한체육회,https://www.sports.or.kr,sports,스포츠,대한체육회,NonProfit,2026-11-02,https://jusopin.com/site/sports-council
-KPGA 한국프로골프협회,https://www.kpga.co.kr,sports,스포츠,사단법인 한국프로골프협회,NonProfit,2026-11-01,https://jusopin.com/site/kpga
 대한야구소프트볼협회,https://www.korea-baseball.com,sports,스포츠,대한야구소프트볼협회,NonProfit,2026-11-01,https://jusopin.com/site/kbsa
 WKBL 한국여자농구연맹,https://www.wkbl.or.kr,sports,스포츠,사단법인 한국여자농구연맹,NonProfit,2026-11-01,https://jusopin.com/site/wkbl
+KPGA 한국프로골프협회,https://www.kpga.co.kr,sports,스포츠,사단법인 한국프로골프협회,NonProfit,2026-11-01,https://jusopin.com/site/kpga
 대한배구협회,https://www.kva.or.kr,sports,스포츠,대한민국배구협회,NonProfit,2026-11-01,https://jusopin.com/site/kva
 스포츠토토 공식 안내,https://www.sportstoto.co.kr/,sports,스포츠,스포츠토토코리아,Company,2026-09-23,https://jusopin.com/site/sportstoto
 네이버 지도,https://map.naver.com,travel,여행·교통,네이버 주식회사,Company,2026-10-22,https://jusopin.com/site/naver-map
@@ -201,24 +201,24 @@ WKBL 한국여자농구연맹,https://www.wkbl.or.kr,sports,스포츠,사단법�
 카카오맵,https://map.kakao.com,travel,여행·교통,주식회사 카카오,Company,2026-11-01,https://jusopin.com/site/kakao-map
 SRT,https://etk.srail.kr,travel,여행·교통,한국철도공사,PublicInstitution,2026-10-25,https://jusopin.com/site/srt
 티맵(TMAP),https://www.tmapmobility.com,travel,여행·교통,티맵모빌리티㈜,Company,2026-10-11,https://jusopin.com/site/tmap
-대한민국 구석구석,https://korean.visitkorea.or.kr/,travel,여행·교통,한국관광공사,PublicInstitution,2026-10-25,https://jusopin.com/site/visitkorea
-아고다,https://www.agoda.com,travel,여행·교통,Agoda Company Pte. Ltd.,Foreign,2026-11-07,https://jusopin.com/site/agoda
-NOL(야놀자),https://nol.yanolja.com,travel,여행·교통,(주)놀유니버스,Company,2026-10-06,https://jusopin.com/site/nol-yanolja
-스카이스캐너,https://www.skyscanner.co.kr,travel,여행·교통,Skyscanner Ltd,Foreign,2026-11-07,https://jusopin.com/site/skyscanner
 여기어때,https://www.yeogi.com,travel,여행·교통,,Company,2026-10-20,https://jusopin.com/site/yeogi
 제주항공,https://www.jejuair.net,travel,여행·교통,(주)제주항공,Company,2026-10-08,https://jusopin.com/site/jejuair
-카카오 T (카카오모빌리티),https://www.kakaomobility.com,travel,여행·교통,주식회사 카카오모빌리티,Company,2026-10-06,https://jusopin.com/site/kakao-t
 쏘카,https://www.socar.kr,travel,여행·교통,(주)쏘카,Company,2026-10-11,https://jusopin.com/site/socar
+카카오 T (카카오모빌리티),https://www.kakaomobility.com,travel,여행·교통,주식회사 카카오모빌리티,Company,2026-10-06,https://jusopin.com/site/kakao-t
+아고다,https://www.agoda.com,travel,여행·교통,Agoda Company Pte. Ltd.,Foreign,2026-11-07,https://jusopin.com/site/agoda
+스카이스캐너,https://www.skyscanner.co.kr,travel,여행·교통,Skyscanner Ltd,Foreign,2026-11-07,https://jusopin.com/site/skyscanner
+NOL(야놀자),https://nol.yanolja.com,travel,여행·교통,(주)놀유니버스,Company,2026-10-06,https://jusopin.com/site/nol-yanolja
+대한민국 구석구석,https://korean.visitkorea.or.kr/,travel,여행·교통,한국관광공사,PublicInstitution,2026-10-25,https://jusopin.com/site/visitkorea
 해외안전여행,https://www.0404.go.kr,travel,여행·교통,외교부,Government,2026-11-02,https://jusopin.com/site/0404
-국립공원공단 예약시스템,https://reservation.knps.or.kr/,travel,여행·교통,국립공원공단,PublicInstitution,2026-10-23,https://jusopin.com/site/knps-reservation
-한국관광공사 고캠핑,https://www.gocamping.or.kr/,travel,여행·교통,한국관광공사,PublicInstitution,2026-10-24,https://jusopin.com/site/gocamping
 숲나들e,https://www.foresttrip.go.kr/,travel,여행·교통,산림청 국립자연휴양림관리소,Government,2026-10-23,https://jusopin.com/site/foresttrip
+한국관광공사 고캠핑,https://www.gocamping.or.kr/,travel,여행·교통,한국관광공사,PublicInstitution,2026-10-24,https://jusopin.com/site/gocamping
 버스타고,https://www.bustago.or.kr/,travel,여행·교통,주식회사 이동의즐거움,Company,2026-10-23,https://jusopin.com/site/bustago
+국립공원공단 예약시스템,https://reservation.knps.or.kr/,travel,여행·교통,국립공원공단,PublicInstitution,2026-10-23,https://jusopin.com/site/knps-reservation
 네이버 부동산,https://land.naver.com,real-estate,부동산,네이버 주식회사,Company,2026-10-22,https://jusopin.com/site/naver-land
 청약홈,https://www.applyhome.co.kr,real-estate,부동산,한국부동산원,PublicInstitution,2026-11-01,https://jusopin.com/site/applyhome
 직방,https://www.zigbang.com,real-estate,부동산,주식회사 직방,Company,2026-10-12,https://jusopin.com/site/zigbang
-LH 한국토지주택공사,https://www.lh.or.kr,real-estate,부동산,한국토지주택공사,PublicInstitution,2026-10-18,https://jusopin.com/site/lh
 국토교통부 실거래가 공개시스템,https://rt.molit.go.kr,real-estate,부동산,국토교통부,Government,2026-10-18,https://jusopin.com/site/rtms
+LH 한국토지주택공사,https://www.lh.or.kr,real-estate,부동산,한국토지주택공사,PublicInstitution,2026-10-18,https://jusopin.com/site/lh
 다방,https://www.dabangapp.com,real-estate,부동산,(주)스테이션3,Company,2026-11-07,https://jusopin.com/site/dabang
 부동산 공시가격 알리미,https://www.realtyprice.kr,real-estate,부동산,국토교통부,Government,2026-11-07,https://jusopin.com/site/realtyprice
 법원경매정보,https://www.courtauction.go.kr,real-estate,부동산,대법원,Government,2026-11-07,https://jusopin.com/site/court-auction
@@ -247,13 +247,13 @@ SK브로드밴드,https://www.bworld.co.kr,telecom,통신사,에스케이브로�
 알뜰폰허브,https://www.mvnohub.kr,telecom,통신사,한국정보통신진흥협회,NonProfit,2026-10-09,https://jusopin.com/site/mvnohub
 KT M모바일,https://www.ktmmobile.com,telecom,통신사,주식회사 케이티엠모바일,Company,2026-11-07,https://jusopin.com/site/ktmmobile
 스마트초이스,https://www.smartchoice.or.kr,telecom,통신사,한국정보통신진흥협회,NonProfit,2026-11-02,https://jusopin.com/site/smartchoice
-응급의료포털 E-gen,https://www.e-gen.or.kr,health,건강·의료,국립중앙의료원,PublicInstitution,2026-11-02,https://jusopin.com/site/egen
 예방접종도우미,https://nip.kdca.go.kr,health,건강·의료,질병관리청,Government,2026-10-17,https://jusopin.com/site/nip
 질병관리청,https://www.kdca.go.kr,health,건강·의료,질병관리청,Government,2026-11-01,https://jusopin.com/site/kdca
-식품의약품안전처,https://www.mfds.go.kr,health,건강·의료,식품의약품안전처,Government,2026-11-01,https://jusopin.com/site/mfds
+응급의료포털 E-gen,https://www.e-gen.or.kr,health,건강·의료,국립중앙의료원,PublicInstitution,2026-11-02,https://jusopin.com/site/egen
 약학정보원,https://www.health.kr,health,건강·의료,재단법인 약학정보원,NonProfit,2026-11-02,https://jusopin.com/site/health-kr
-의약품안전나라,https://nedrug.mfds.go.kr,health,건강·의료,식품의약품안전처,Government,2026-11-01,https://jusopin.com/site/nedrug
 하이닥,https://www.hidoc.co.kr,health,건강·의료,,Company,2026-11-02,https://jusopin.com/site/hidoc
+식품의약품안전처,https://www.mfds.go.kr,health,건강·의료,식품의약품안전처,Government,2026-11-01,https://jusopin.com/site/mfds
+의약품안전나라,https://nedrug.mfds.go.kr,health,건강·의료,식품의약품안전처,Government,2026-11-01,https://jusopin.com/site/nedrug
 국가건강정보포털,https://health.kdca.go.kr,health,건강·의료,질병관리청,Government,2026-11-02,https://jusopin.com/site/health-kdca
 식품안전나라,https://www.foodsafetykorea.go.kr,health,건강·의료,식품의약품안전처,Government,2026-11-02,https://jusopin.com/site/foodsafety
 대한적십자사 혈액관리본부,https://www.bloodinfo.net,health,건강·의료,대한적십자사,NonProfit,2026-11-02,https://jusopin.com/site/bloodinfo
@@ -264,55 +264,55 @@ e보건소,https://www.e-health.go.kr/,health,건강·의료,보건복지부·�
 현대자동차,https://www.hyundai.com/kr/ko/e,automobile,자동차,현대자동차(주),Company,2026-11-07,https://jusopin.com/site/hyundai
 안전운전 통합민원(도로교통공단),https://www.safedriving.or.kr,automobile,자동차,한국도로교통공단,PublicInstitution,2026-11-07,https://jusopin.com/site/safedriving
 엔카,https://www.encar.com/,automobile,자동차,엔카닷컴,Company,2026-09-23,https://jusopin.com/site/encar
-다나와 자동차,https://auto.danawa.com/,automobile,자동차,커넥트웨이브,Company,2026-11-01,https://jusopin.com/site/danawa-auto
 KB차차차,https://www.kbchachacha.com/,automobile,자동차,KB캐피탈,Company,2026-09-23,https://jusopin.com/site/kbchachacha
+다나와 자동차,https://auto.danawa.com/,automobile,자동차,커넥트웨이브,Company,2026-11-01,https://jusopin.com/site/danawa-auto
+캐치테이블,https://www.catchtable.co.kr/,food,맛집·예약,와드,Company,2026-09-23,https://jusopin.com/site/catchtable
 식신,https://www.siksinhot.com/,food,맛집·예약,식신,Company,2026-09-23,https://jusopin.com/site/siksin
 다이닝코드,https://www.diningcode.com/,food,맛집·예약,다이닝코드,Company,2026-11-01,https://jusopin.com/site/diningcode
-캐치테이블,https://www.catchtable.co.kr/,food,맛집·예약,와드,Company,2026-09-23,https://jusopin.com/site/catchtable
 테이블링,https://tabling.co.kr,food,맛집·예약,테이블링 주식회사,Company,2026-11-01,https://jusopin.com/site/tabling
+넷마블,https://www.netmarble.net/,games,게임,넷마블,Company,2026-09-23,https://jusopin.com/site/netmarble
+Xbox,https://www.xbox.com/ko-KR/,games,게임,마이크로소프트,Foreign,2026-09-23,https://jusopin.com/site/xbox
+넥슨,https://www.nexon.com/,games,게임,넥슨코리아,Company,2026-11-08,https://jusopin.com/site/nexon
 Steam,https://store.steampowered.com/,games,게임,Valve,Foreign,2026-11-07,https://jusopin.com/site/steam
 PlayStation,https://www.playstation.com/ko-kr/,games,게임,소니 인터랙티브 엔터테인먼트,Foreign,2026-11-08,https://jusopin.com/site/playstation
-넷마블,https://www.netmarble.net/,games,게임,넷마블,Company,2026-09-23,https://jusopin.com/site/netmarble
-넥슨,https://www.nexon.com/,games,게임,넥슨코리아,Company,2026-11-08,https://jusopin.com/site/nexon
-Xbox,https://www.xbox.com/ko-KR/,games,게임,마이크로소프트,Foreign,2026-09-23,https://jusopin.com/site/xbox
 라이엇게임즈,https://www.riotgames.com,games,게임,Riot Games,Foreign,2026-11-01,https://jusopin.com/site/riot-games
 닌텐도,https://www.nintendo.com/kr/,games,게임,Nintendo,Foreign,2026-11-01,https://jusopin.com/site/nintendo
 엔씨소프트,https://www.nc.com,games,게임,엔씨소프트,Company,2026-11-01,https://jusopin.com/site/ncsoft
-에픽게임즈 스토어,https://store.epicgames.com/?lang=ko,games,게임,Epic Games,Foreign,2026-10-23,https://jusopin.com/site/epic-games
 마인크래프트,https://www.minecraft.net/ko-kr,games,게임,Mojang Studios·Microsoft,Foreign,2026-10-23,https://jusopin.com/site/minecraft
-숨고,https://soomgo.com/,living,생활 서비스,브레이브모바일,Company,2026-10-25,https://jusopin.com/site/soomgo
+에픽게임즈 스토어,https://store.epicgames.com/?lang=ko,games,게임,Epic Games,Foreign,2026-10-23,https://jusopin.com/site/epic-games
 요기요,https://www.yogiyo.co.kr/,living,생활 서비스,위대한상상,Company,2026-09-23,https://jusopin.com/site/yogiyo
+숨고,https://soomgo.com/,living,생활 서비스,브레이브모바일,Company,2026-10-25,https://jusopin.com/site/soomgo
 배달의민족,https://www.baemin.com/,living,생활 서비스,우아한형제들,Company,2026-09-23,https://jusopin.com/site/baemin
 아파트아이,https://www.apti.co.kr,living,생활 서비스,(주)아파트아이,Company,2026-10-25,https://jusopin.com/site/apti
-폐가전 무상방문수거,https://www.15990903.or.kr/portal/main/main.do,living,생활 서비스,E-순환거버넌스,NonProfit,2026-10-24,https://jusopin.com/site/ewaste-pickup
 문화포털,https://www.culture.go.kr/portal/main/main.do,living,생활 서비스,한국문화정보원,PublicInstitution,2026-10-24,https://jusopin.com/site/culture-portal
+폐가전 무상방문수거,https://www.15990903.or.kr/portal/main/main.do,living,생활 서비스,E-순환거버넌스,NonProfit,2026-10-24,https://jusopin.com/site/ewaste-pickup
 공유누리,https://www.eshare.go.kr/,living,생활 서비스,행정안전부,Government,2026-10-24,https://jusopin.com/site/eshare
 다나와,https://www.danawa.com/,price,가격비교,커넥트웨이브,Company,2026-10-26,https://jusopin.com/site/danawa
-오피넷 싼 주유소 찾기,https://www.opinet.co.kr,price,가격비교,한국석유공사,PublicInstitution,2026-10-26,https://jusopin.com/site/opinet
 에누리,https://www.enuri.com/,price,가격비교,커넥트웨이브,Company,2026-10-26,https://jusopin.com/site/enuri
+오피넷 싼 주유소 찾기,https://www.opinet.co.kr,price,가격비교,한국석유공사,PublicInstitution,2026-10-26,https://jusopin.com/site/opinet
 금융상품한눈에,https://finlife.fss.or.kr,price,가격비교,금융감독원,PublicInstitution,2026-10-08,https://jusopin.com/site/finlife
 한국소비자원 참가격,https://www.price.go.kr,price,가격비교,한국소비자원,PublicInstitution,2026-10-26,https://jusopin.com/site/consumer-price
 KAMIS 농산물유통정보,https://www.kamis.or.kr,price,가격비교,한국농수산식품유통공사,PublicInstitution,2026-10-26,https://jusopin.com/site/kamis
-안전신문고,https://www.safetyreport.go.kr/,safety,날씨·재난,행정안전부,Government,2026-09-23,https://jusopin.com/site/safetyreport
-에어코리아,https://www.airkorea.or.kr/,safety,날씨·재난,한국환경공단,PublicInstitution,2026-09-23,https://jusopin.com/site/airkorea
 국민안전24,https://www.safekorea.go.kr/,safety,날씨·재난,행정안전부,Government,2026-11-01,https://jusopin.com/site/safekorea
+에어코리아,https://www.airkorea.or.kr/,safety,날씨·재난,한국환경공단,PublicInstitution,2026-09-23,https://jusopin.com/site/airkorea
+안전신문고,https://www.safetyreport.go.kr/,safety,날씨·재난,행정안전부,Government,2026-09-23,https://jusopin.com/site/safetyreport
 자동차리콜센터,https://www.car.go.kr/home/main.do,safety,날씨·재난,국토교통부·한국교통안전공단,PublicInstitution,2026-10-24,https://jusopin.com/site/car-recall
 GitHub,https://github.com,tools,업무 도구,"GitHub, Inc.",Foreign,2026-11-07,https://jusopin.com/site/github
-Zoom(줌 화상회의),https://www.zoom.com/ko,tools,업무 도구,"Zoom Communications, Inc.",Foreign,2026-11-08,https://jusopin.com/site/zoom
 구글 번역,https://translate.google.com/,tools,업무 도구,구글,Foreign,2026-09-23,https://jusopin.com/site/google-translate
-네이버 캘린더,https://calendar.naver.com/,tools,업무 도구,네이버,Company,2026-09-23,https://jusopin.com/site/naver-calendar
 구글 드라이브,https://drive.google.com/,tools,업무 도구,구글,Foreign,2026-09-23,https://jusopin.com/site/google-drive
+네이버 캘린더,https://calendar.naver.com/,tools,업무 도구,네이버,Company,2026-09-23,https://jusopin.com/site/naver-calendar
+Zoom(줌 화상회의),https://www.zoom.com/ko,tools,업무 도구,"Zoom Communications, Inc.",Foreign,2026-11-08,https://jusopin.com/site/zoom
 바로셈,https://xn--2e0b83j.site,tools,업무 도구,,Company,2026-10-04,https://jusopin.com/site/barosem
 바로킷,https://barokit.com/,tools,업무 도구,,Company,2026-09-22,https://jusopin.com/site/barokit
-한국 SaaS 백과사전,https://www.saaskorea.com/,tools,업무 도구,,Company,2026-11-01,https://jusopin.com/site/saaskorea
 공유마당,https://gongu.copyright.or.kr/,tools,업무 도구,한국저작권위원회,PublicInstitution,2026-09-22,https://jusopin.com/site/gongu
-공공누리,https://www.kogl.or.kr/,tools,업무 도구,한국문화정보원,PublicInstitution,2026-10-23,https://jusopin.com/site/kogl
-Microsoft Teams,https://teams.microsoft.com/,tools,업무 도구,Microsoft,Foreign,2026-10-23,https://jusopin.com/site/microsoft-teams
-Microsoft 365,https://www.microsoft.com/ko-kr/microsoft-365,tools,업무 도구,Microsoft,Foreign,2026-10-23,https://jusopin.com/site/microsoft-365
+한국 SaaS 백과사전,https://www.saaskorea.com/,tools,업무 도구,,Company,2026-11-01,https://jusopin.com/site/saaskorea
 미리캔버스,https://www.miricanvas.com/ko,tools,업무 도구,주식회사 미리디,Company,2026-10-23,https://jusopin.com/site/miricanvas
-Google Meet,https://meet.google.com/,tools,업무 도구,Google,Foreign,2026-10-23,https://jusopin.com/site/google-meet
-Java,https://www.java.com/ko/,tools,업무 도구,Oracle,Foreign,2026-10-23,https://jusopin.com/site/java
 네이버 클라우드 플랫폼,https://www.ncloud.com/,tools,업무 도구,네이버클라우드,Company,2026-10-23,https://jusopin.com/site/ncloud
 노션 (Notion),https://www.notion.com/ko,tools,업무 도구,"Notion Labs, Inc.",Foreign,2026-10-23,https://jusopin.com/site/notion
+공공누리,https://www.kogl.or.kr/,tools,업무 도구,한국문화정보원,PublicInstitution,2026-10-23,https://jusopin.com/site/kogl
 Canva(캔바),https://www.canva.com/ko_kr/,tools,업무 도구,Canva,Foreign,2026-10-23,https://jusopin.com/site/canva
+Google Meet,https://meet.google.com/,tools,업무 도구,Google,Foreign,2026-10-23,https://jusopin.com/site/google-meet
+Microsoft 365,https://www.microsoft.com/ko-kr/microsoft-365,tools,업무 도구,Microsoft,Foreign,2026-10-23,https://jusopin.com/site/microsoft-365
 Figma(피그마),https://www.figma.com/ko-kr/,tools,업무 도구,Figma,Foreign,2026-10-23,https://jusopin.com/site/figma
+Java,https://www.java.com/ko/,tools,업무 도구,Oracle,Foreign,2026-10-23,https://jusopin.com/site/java
+Microsoft Teams,https://teams.microsoft.com/,tools,업무 도구,Microsoft,Foreign,2026-10-23,https://jusopin.com/site/microsoft-teams
